@@ -132,7 +132,7 @@ Os valores refletem ordens de magnitude plausíveis para grandes corporações g
 **Léo Sales**
 Analista de Dados em formação · Manaus, Brasil
 
-[![LinkedIn](https://www.linkedin.com/in/léo-sales-5b8a9b2b3/)
+(https://www.linkedin.com/in/léo-sales-5b8a9b2b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario)
 
 ---
