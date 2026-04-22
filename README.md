@@ -1,12 +1,12 @@
 # Crescimento da Adoção de IA em Grandes Empresas (2019–2024)
 
-> **Análise SQL exploratória** sobre como as maiores empresas do mundo estão incorporando ferramentas de Inteligência Artificial em seus softwares e operações — e o que isso significa para produtividade e investimento.
+> **Análise SQL exploratória** sobre como as maiores empresas do mundo estão utilizando ferramentas de Inteligência Artificial em seus softwares e operações — e o que isso significa para produtividade e investimento global.
 
 ---
 
 ## Contexto e motivação
 
-Nos últimos cinco anos, o mercado de IA corporativa passou por uma transformação sem precedentes. O lançamento de modelos como GPT-4, Claude e Gemini marcou um ponto de inflexão: a IA deixou de ser um projeto de P&D e passou a ser parte central da estratégia de negócios de empresas globais.
+Nos últimos cinco anos, o mercado de IA corporativa passou por uma transformação sem precedentes. O lançamento de modelos como GPT-4, Claude e Gemini marcou um ponto de inflexão: a IA deixou de ser um projeto de P&D(Pesquisa e Desenvolvimento) e passou a ser parte central da estratégia de negócios de empresas globais.
 
 Este projeto analisa **dados simulados** de 10 grandes corporações de diferentes setores e países, cobrindo o período de 2019 a 2024, para responder perguntas concretas de negócio usando SQL puro.
 
